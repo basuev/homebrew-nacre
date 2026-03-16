@@ -1,8 +1,8 @@
 class Nacre < Formula
   desc "minimal POSIX shell with fish-like autosuggestions"
   homepage "https://github.com/basuev/nacre"
-  url "https://github.com/basuev/nacre/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "55864142c88c72107738539530b05196247c3e8b7b07241da0e0f7f8c3e8e191"
+  url "https://github.com/basuev/nacre/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "5615e76b36dcc6bc9843b5066695d5b39746e47c723c3796787752a7486fc489"
   license "MIT"
 
   def install
